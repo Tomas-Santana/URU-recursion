@@ -5,7 +5,7 @@ void hanoi(int, char, char, char);
 int main() {
     int n;
     printf("Ingrese el numero de discos: "); scanf("%d", &n);
-    hanoi(n, 'A', 'B', 'D');
+    hanoi(n, 'A', 'B', 'C');
     return 0;
 }
 // Inicio de la funcion recursiva
