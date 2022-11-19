@@ -1,3 +1,4 @@
+// Tomas Santana. CI 30604530
 #include <stdio.h>
 
 void hanoi(int, char, char, char);
